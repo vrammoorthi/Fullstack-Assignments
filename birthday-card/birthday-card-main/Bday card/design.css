@@ -1,0 +1,43 @@
+body{
+    background-image: url(/22492.jpg);
+    background-size: cover;
+   font-family: 'Tangerine', serif;
+        font-size: 30px;
+        text-shadow: 4px 4px 4px #aaa;
+        background-position: center;
+      
+      
+}
+.container{
+    display: flex;
+    margin-top: 50px;
+     background-color: white;
+     border-radius: 7px;
+     height: 85vh;
+     width: 45%;
+     box-shadow:0px 3px 30px black;
+     opacity: 90% ;
+}
+ .container{
+    background-image: url(/22492.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+ }
+ 
+ 
+.para{
+        width: 180%;
+        text-align:justify;
+        margin-left: 17%;
+  }
+
+.quotes{
+       
+        display: flex;
+        justify-content: space-between;
+        align-items:flex-start;
+        
+        
+}
